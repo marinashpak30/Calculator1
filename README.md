@@ -1,4 +1,4 @@
-# Trial_Calculator
+# Calculator
 
 Разработка классического калькулятора с использованием C# и WinForm. 
 
